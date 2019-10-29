@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <time.h>
 #include <windows.h>
-int main (int argc,char argv[])
+int main (int argc,char *argv[])
 {
 int A=1;
 time_t tiempoahora;
